@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tojsemja" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -61,7 +61,7 @@
       <updated>1604663564127</updated>
       <workItem from="1604663565971" duration="4369000" />
       <workItem from="1604907622693" duration="60000" />
-      <workItem from="1605004990319" duration="1094000" />
+      <workItem from="1605004990319" duration="7416000" />
     </task>
     <servers />
   </component>
@@ -69,14 +69,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="94" key="#Project_Structure" timestamp="1604663567581">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1605007321000">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1604663567581" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604666486639">
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1605007321000" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605012141108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604666486639" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605012141108" />
     <state x="342" y="203" key="new project wizard" timestamp="1604907686222">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -1,7 +1,8 @@
 body{
 background-color: #111;
+    font-family: "Nirmala UI";
 }
-ul {
+.navigation{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -28,4 +29,29 @@ li a:hover:not(.active) {
 
 .active {
     background-color: #800000;
+}
+h1 {
+    text-align: center;
+    font-size: 75px;
+    color: white;
+}
+h2 {
+    color: white;
+}
+.description{
+    font-size: 30px;
+    text-align: center;
+}
+.logo{
+    align-content:center;
+}
+.hq{
+    text-align: left;
+}
+.socialsite{
+    text-align: left;
+}
+.social{
+    font-size: 30px;
+    color: white;
 }
