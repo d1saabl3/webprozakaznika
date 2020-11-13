@@ -40,10 +40,11 @@ h2 {
 }
 .description{
     font-size: 30px;
-    text-align: center;
+    text-align: left;
 }
 .logo{
-    align-content:center;
+    padding: 10px;
+    margin: 10px;
 }
 .hq{
     text-align: left;
@@ -51,7 +52,31 @@ h2 {
 .socialsite{
     text-align: left;
 }
-.social{
+.click{
+    color: #800000;
+    text-decoration: none;
+}
+.click:active{
+    color: #4d0000;
+}
+.socialfb{
+    color: #003399;
     font-size: 30px;
-    color: white;
+}
+.socialfb:active{
+    color: #001a4d;
+}
+.socialig{
+    color: #994d00;
+    font-size: 30px;
+}
+.socialig:active{
+    color: #663300;
+}
+.socialtwitter{
+    color: #008fb3;
+    font-size: 30px;
+}
+.socialtwitter:active{
+    color: #007399;
 }

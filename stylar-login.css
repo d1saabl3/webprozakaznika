@@ -25,6 +25,7 @@ input{
     background-color: #4d0000;
     font-family: "Nirmala UI";
     font-size: medium;
+    width: 222px;
 }
 body{
     background-color: #0a290a;
@@ -34,10 +35,15 @@ h2{
 }
 .password{
     font-family: "Nirmala UI";
+    width: 180px;
+    margin: 15px;
 }
 .username{
     font-family: "Nirmala UI";
+    width: 180px;
+    margin: 15px;
 }
 .checkbox{
     font-family: "Nirmala UI";
 }
+
