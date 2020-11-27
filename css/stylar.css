@@ -37,6 +37,7 @@ h1 {
 }
 h2 {
     color: white;
+    font-family: "Roboto Medium";
 }
 .description{
     font-size: 30px;
@@ -48,9 +49,11 @@ h2 {
 }
 .hq{
     text-align: left;
+    font-family: "Roboto Medium";
 }
 .socialsite{
     text-align: left;
+    font-family: "Roboto Medium";
 }
 .click{
     color: #800000;
@@ -79,4 +82,29 @@ h2 {
 }
 .socialtwitter:active{
     color: #007399;
+}
+.fa-instagram{
+    color: coral;
+    text-decoration: none;
+}
+.fa-facebook-f{
+    color: blue;
+    text-decoration: none;
+    padding-left: 20px;
+}
+.fa-twitter{
+    color: deepskyblue;
+    text-decoration: none;
+    padding-left: 20px;
+}
+.imagekebab{
+    padding-left: 10px;
+}
+.fa-phone{
+    margin-top: 15px;
+    color: white;
+}
+.info{
+    text-align: left;
+    font-family: "Roboto Medium";
 }

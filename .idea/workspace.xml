@@ -25,8 +25,10 @@
       <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylar-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylar-login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylar.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kebabvibe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kebabvibe_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylar-login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylar.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +64,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tojsemja" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -80,6 +95,9 @@
       <workItem from="1604907622693" duration="60000" />
       <workItem from="1605004990319" duration="7416000" />
       <workItem from="1605267240788" duration="5131000" />
+      <workItem from="1605650511420" duration="194000" />
+      <workItem from="1606349458419" duration="672000" />
+      <workItem from="1606475977319" duration="15245000" />
     </task>
     <servers />
   </component>
@@ -96,16 +114,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1605007321000">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1605007321000" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605012141108">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605650701039">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605012141108" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605650701039" />
     <state x="342" y="203" key="new project wizard" timestamp="1604907686222">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
