@@ -5,11 +5,13 @@
     <title>KebabVibe - Kontakty</title>
     <link rel="stylesheet" href="css/stylar.css">
     <script src="https://kit.fontawesome.com/3917cc56ba.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/stylarkontakt.css">
+    <link rel="stylesheet" href="css/normalize.css">
 
 </head>
 <body>
 <ul class="navigation">
-    <img src="images/kebabvibe.png" width="120" height="50">
+    <img class="ehhhh" src="images/kebabvibe.png" width="120" height="43">
     <li><a href="index.html">Úvod</a></li>
     <li><a href="galerie.html">Galerie</a></li>
     <li><a class="active" href="contacts.html">Kontakty</a></li>
@@ -18,8 +20,28 @@
 <h1 class="socialsite">Sociální sítě</h1>
 <a class="fab fa-twitter fa-5x" href="https://twitter.com/kebabvibe"> </a>
 <a class="fab fa-facebook-f fa-5x" href="https://www.facebook.com/Kebab-Vibe-102030711759326"> </a><br>
-<h1 class="info">Kontakt</h1>
-<i class="fas fa-phone fa-3x"> +420 721 453 145</i>
+<h1 class="info">Kontaktujte nás</h1>
+
+<div class="container">
+    <form>
+        <h2 style="color:white">Dotazník</h2>
+        <div>
+
+            <input class="name" id ="name" type="text" name="name" placeholder="Jméno a příjmení*"  required/>
+        </div>
+
+        <div>
+            <input class="email" id="email"  type="email" name="email" placeholder="Email*" required/>
+        </div>
+        <div>
+            <input class="zprava" id="zprava" type="text" name="zprava" placeholder="Tvoje zpráva*">
+        </div>
+        <div>
+            <input  style="color: black" class="odeslat" type="submit"  value="Odeslat"/>
+        </div>
+    </form>
+</div>
+<i class="fas fa-phone fa-3x"> +420 987 654 321</i>
 
 
 <h1 class="hq">Naše kancelář</h1>

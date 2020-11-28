@@ -1,8 +1,17 @@
-body{
-background-color: #111;
-    font-family: "Nirmala UI";
+.photogallery {
+    border: 5px solid #800000;
 }
-.navigation{
+body {
+    background-color: #111;
+    font-family: "Nirmala UI", sans-serif;
+    background-image: url(../images/stylkebab.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+
+
+}
+
+.navigation {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -20,7 +29,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-family: "Nirmala UI";
+    font-family: "Nirmala UI", sans-serif;
 }
 
 li a:hover:not(.active) {
@@ -30,81 +39,83 @@ li a:hover:not(.active) {
 .active {
     background-color: #800000;
 }
+
 h1 {
     text-align: center;
     font-size: 75px;
     color: white;
+    text-shadow: -1px 1px 0 #111,
+    1px 1px 0 #111,
+    1px -1px 0 #111,
+    1px 1px 0 #111;
 }
+
 h2 {
     color: white;
-    font-family: "Roboto Medium";
+    font-family: "Roboto Medium", sans-serif;
+    text-shadow: -1px 1px 0 #111,
+    1px 1px 0 #111,
+    1px -1px 0 #111,
+    1px 1px 0 #111;
+
 }
-.description{
-    font-size: 30px;
+
+.description {
     text-align: left;
+    font-size: 60px;
+    color: white;
+    text-shadow: -1px 1px 0 #111,
+    1px 1px 0 #111,
+    1px -1px 0 #111,
+    1px 1px 0 #111;
+    padding-bottom: 1px;
 }
-.logo{
+
+.logo {
     padding: 10px;
     margin: 10px;
 }
-.hq{
+
+.hq {
     text-align: left;
-    font-family: "Roboto Medium";
+    font-family: "Roboto Medium", sans-serif;
 }
-.socialsite{
+
+.socialsite {
     text-align: left;
-    font-family: "Roboto Medium";
+    font-family: "Roboto Medium", sans-serif;
 }
-.click{
+
+.click {
     color: #800000;
     text-decoration: none;
 }
-.click:active{
+
+.click:active {
     color: #4d0000;
 }
-.socialfb{
-    color: #003399;
-    font-size: 30px;
-}
-.socialfb:active{
-    color: #001a4d;
-}
-.socialig{
-    color: #994d00;
-    font-size: 30px;
-}
-.socialig:active{
-    color: #663300;
-}
-.socialtwitter{
-    color: #008fb3;
-    font-size: 30px;
-}
-.socialtwitter:active{
-    color: #007399;
-}
-.fa-instagram{
-    color: coral;
-    text-decoration: none;
-}
-.fa-facebook-f{
+.fa-facebook-f {
     color: blue;
     text-decoration: none;
     padding-left: 20px;
 }
-.fa-twitter{
+
+.fa-twitter {
     color: deepskyblue;
     text-decoration: none;
     padding-left: 20px;
 }
-.imagekebab{
+
+.imagekebab {
     padding-left: 10px;
 }
-.fa-phone{
+
+.fa-phone {
     margin-top: 15px;
     color: white;
 }
-.info{
+
+.info {
     text-align: left;
-    font-family: "Roboto Medium";
+    font-family: "Roboto Medium", sans-serif;
 }
